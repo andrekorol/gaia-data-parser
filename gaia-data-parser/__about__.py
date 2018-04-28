@@ -7,15 +7,15 @@ __all__ = [
     "__email__", "__license__", "__copyright__",
 ]
 
-__title__ = "GDP"
-__summary__ = "GDP - Gaia Data Parser is a collection of Python tools intended to parsing and analyzing ESA\'s Gaia Data Releases"
-__uri__ = "https://github.com/n1analytics/python-paillier"
+__title__ = "gaia-data-parser"
+__summary__ = "Gaia Data Parser is a collection of Python tools intended to parsing and analyzing ESA\'s Gaia Data Releases"
+__uri__ = "https://github.com/andrekorol/gaia-data-parser"
 
-# We use semantic versioning - semver.org
-__version__ = "1.4.1-dev0"
+# Implement a CLI Semantic Version updater
+__version__ = ""
 
-__author__ = "N1 Analytics developers"
-__email__ = "info@n1analytics.com"
+__author__ = "André Rossi Korol"
+__email__ = "anrobits@yahoo.com.br"
 
 __license__ = "GPLv3"
-__copyright__ = "Copyright 2013-2018 {0}".format(__author__)
+__copyright__ = f"Copyright (C) 2018 {__author__}"
